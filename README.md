@@ -1,6 +1,6 @@
-# SimonGame ⏩
+# SimonGame 
  🟩🟥
  <br>
  🟨🟦
 <hr>
-<a href = "https://mahiprasad.github.io/SimonGame/"> Visit the Website here. </a>
+<a href = "https://mahiprasad.github.io/SimonGame/"> Visit the Website here ⏩</a>
